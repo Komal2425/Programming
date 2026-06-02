@@ -1,3 +1,5 @@
+//question 1: Program to divide two numbers
+
 #include<stdio.h>
 
 int Divide(int iNo1, int iNo2)
